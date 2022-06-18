@@ -1,7 +1,4 @@
-import { saludar } from './js/componentes.js';
+import { hey } from './js/menu-slide';
 import './styles.css';
 
-
-const nombre = 'Fernando';
-
-saludar( nombre );
+hey
